@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*14)+ 1);
 var xxx=null;
-if(if(x=="1"){xxx="gold-bullion-is-wisest-choice-to.html"}
+if(x=="1"){xxx="gold-bullion-is-wisest-choice-to.html"}
 if(x=="2"){xxx="why-do-i-need-international-freight.html"}
 if(x=="3"){xxx="the-ultimate-strategy-for-international.html"}
 if(x=="4"){xxx="5-things-you-need-to-know-before-taking.html"}
