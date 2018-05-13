@@ -34,7 +34,7 @@ if(x=="10"){xxx="international-business-etiquette-tips.html"}
 if(x=="11"){xxx="how-this-woodland-is-telling-you-that.html"}
 if(x=="12"){xxx="5-uses-of-travel-expense-management.html"}
 if(x=="13"){xxx="how-to-manage-your-business-while.html"}
-if(x=="14"){xxx="2018/05/bitcoin.html"}a_to_ve[i].href="https://www.link-vixmp3.ga/2018/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="14"){xxx="bitcoin.html"}a_to_ve[i].href="https://www.link-vixmp3.ga/2018/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
