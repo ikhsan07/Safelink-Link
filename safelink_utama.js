@@ -19,22 +19,12 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*14)+ 1);
+var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="gold-bullion-is-wisest-choice-to.html"}
-if(x=="2"){xxx="why-do-i-need-international-freight.html"}
-if(x=="3"){xxx="the-ultimate-strategy-for-international.html"}
-if(x=="4"){xxx="5-things-you-need-to-know-before-taking.html"}
-if(x=="5"){xxx="how-do-large-corporations-utilize.html"}
-if(x=="6"){xxx="steps-to-successful-exporting.html"}
-if(x=="7"){xxx="5-crucial-factors-to-consider-when.html"}
-if(x=="8"){xxx="the-burn-rate.html"}
-if(x=="9"){xxx="currency-converter.html"}
-if(x=="10"){xxx="international-business-etiquette-tips.html"}
-if(x=="11"){xxx="how-this-woodland-is-telling-you-that.html"}
-if(x=="12"){xxx="5-uses-of-travel-expense-management.html"}
-if(x=="13"){xxx="how-to-manage-your-business-while.html"}
-if(x=="14"){xxx="bitcoin.html"}a_to_ve[i].href="https://www.link-vixmp3.ga/2018/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="vps-definition.html"}
+if(x=="2"){xxx="windows-vps-hosting.html"}
+if(x=="3"){xxx="virtual-private-server-hosting.html"}
+if(x=="4"){xxx="dedicated-servers.html"}a_to_ve[i].href="https://www.dl-oprekersphone.ga/2018/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
